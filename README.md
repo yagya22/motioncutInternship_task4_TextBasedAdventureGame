@@ -1,1 +1,1 @@
-# motioncutInternship_task4_TextBasedAdventureGame_ExpenseTracker
+# motioncutInternship_task4_TextBasedAdventureGame
